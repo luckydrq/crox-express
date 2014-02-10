@@ -5,8 +5,7 @@ crox-express
 
 ```
 var app = express();
-
-require('crox-express');
+require('crox-express')(app);
 
 app.set('view engine', 'crox');
 ...

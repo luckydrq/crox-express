@@ -10,9 +10,7 @@ var http = require('http');
 var path = require('path');
 
 var app = express();
-
-var crox = require('crox');
-require('crox-express')(crox);
+require('crox-express')(app);
 
 // all environments
 app.set('port', process.env.PORT || 3000);

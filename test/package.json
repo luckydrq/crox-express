@@ -3,12 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node-dev app.js"
   },
   "devDependencies": {
-    "crox-express": "0.1.0",
     "express": "3.4.7",
-    "node-dev": "2.1.6",
-    "crox": "1.2.0"
+    "node-dev": "2.1.6"
   }
 }

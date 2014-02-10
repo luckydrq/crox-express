@@ -3,9 +3,7 @@
   "author": "drqzju@gmail.com",
   "version": "0.1.0",
   "main": "./index.js",
-  "dependencies": {
-    "crox": "1.2.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "express": "3.4.8"
   }

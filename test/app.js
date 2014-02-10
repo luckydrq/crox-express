@@ -11,7 +11,8 @@ var path = require('path');
 
 var app = express();
 
-require('crox-express');
+var crox = require('crox');
+require('crox-express')(crox);
 
 // all environments
 app.set('port', process.env.PORT || 3000);

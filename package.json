@@ -5,6 +5,6 @@
   "version": "0.1.1",
   "main": "./index.js",
   "dependencies": {
-    "crox": "1.2.1"
+    "crox": "~1.2.0"
   }
 }

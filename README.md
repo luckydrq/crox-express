@@ -1,7 +1,7 @@
 crox-express
 ============
 
-`crox` template shim for `express` web framework
+A shim for [`crox`](https://github.com/thx/crox) template engine combined in [`express`](https://github.com/visionmedia/express) web framework
 
 ### Installation
 
